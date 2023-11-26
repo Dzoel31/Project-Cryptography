@@ -1,2 +1,2 @@
-streamlit
-rsa
+rsa==4.9
+streamlit==1.28.2
