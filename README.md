@@ -15,5 +15,5 @@ Kemudian melakukan `clone` atau download repositori ini.
 Terakhir menjalankan file `dashboard-hash.py` dengan perintah.
 
 ```bash
-streamlit run dashboard-hash.py
+streamlit run dashboard-rsa.py
 ```
